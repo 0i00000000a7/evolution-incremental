@@ -1,23 +1,16 @@
-# The-Modding-Table
-by Shinwmste
+# Evolution Incremental
 
-An incremental game engine based on The Modding Tree. It still requires programming knowledge, but it's mostly pretty easy things and copy/paste.
+by AntiDim19728
 
-[Doc](https://github.com/shenmi124/The-Modding-Table/tree/main/docs) <i>has not yet.</i>(lol)
-
-Thanks<s>(::thinks::)</s>:
-(Original Author)
-<br>
-[Acamaeda](https://github.com/Acamaeda)
-<br>
-<br>
-(Main Helper)
-<br>
-[QwQe308](https://github.com/QwQe308)
-<br>
-<br>
-(Helper)
-<br>
-[3^3](https://github.com/factorXXX)
-<br>
-Anonymous * 2 ( not there name ) ( “( not there name )” is not there name ) ( “( “( not there name )” is not there name )” is not there either ) <s>( ( “( “( not there name )” is not there name )” is not there either ) 🤔 )</s>
+灵感来源：
+[The Communitree](https://ducdat0507.github.io/communitree/)
+[The Formula](https://qwqe308.github.io/The-Formula/)
+[The Formula Respecced](https://github.com/1231234md5/The-Formula-Respecced)
+[The Formula Extended](https://shenmi124.github.io/The-Formula-Extended/)
+[Incremental Dev Tree](https://icecreamdudes.github.io/The-Modding-Tree-Omeganum/)
+[Incremental God Tree](https://icecreamdudes.github.io/Incremental-God-Tree/)
+[Incremental God Tree Rewritten](https://icecreamdudes.github.io/Incremental-God-Tree-Rewritten/)
+[Celestial Incremental](https://icecreamdudes.github.io/celestial_incremental/)
+[NG+ Infinite](https://lun4-r.github.io/NG-plus-Infinite/)
+[NG+ Tree](https://thenonymous.github.io/The-NG-Tree-3/)
+[The Function Tree](https://txianlei.github.io/the-function-tree/)
